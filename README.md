@@ -12,7 +12,7 @@ Our proposed methodology has two main modules, see the graphical workflow in the
   <img  width="90" />
   <b>(a)
   <img  width="400" />
-  <b>(b)</b>
+  <b>(b)
 </p>
 
 Topological LSTM (a) RNN architecture. (b) Our proposed methodology
