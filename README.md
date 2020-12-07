@@ -23,7 +23,4 @@ This package includes the source codes and datasets used in this research projec
 
 
 
-Codes: The full set of script files used in this research paper.
-ReduceDataset: The reduced dynamic network used through this research.
-PersistenceDiagrams: All persistence diagrams obtained via Clique Community Persistence.
-Competitors: The competitor's source code used to contrast our methodology.
+
