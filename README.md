@@ -10,9 +10,9 @@ Our proposed methodology has two main modules, see the graphical workflow in the
   <img  width="40" />
   <img src="Images/WorkflowMethod_page-0001.jpg" width="650" /> 
   <img  width="90" />
-  <b>(a)
+  <b>(a)</b>
   <img  width="400" />
-  <b>(b)
+  <b>(b)</b>
 </p>
 
 Topological LSTM (a) RNN architecture. (b) Our proposed methodology
