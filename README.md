@@ -10,7 +10,7 @@ Our proposed methodology has two main modules, see the graphical workflow in the
   <img src="Images/RNN_Architecture_page-0001.jpg" width="130" /> 
   <img  width="40" />
   <img src="Images/WorkflowMethod_page-0001.jpg" width="700" /> 
-  <img  width="40" />
+  <img  width="70" />
   <b>(a)
   <img  width="400" />
   <b>(b)
