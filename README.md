@@ -1,6 +1,5 @@
 # Covid-19 Forecasting via Deep Learning and Topological Data Analysis
 
-Understanding the impact of atmospheric and weather conditions on **SARS-CoV2** is critical to model **COVID-19** dynamics  and shed a light on future spread around the world.Furthermore, geographic distribution of expected clinical severity of **COVID-19** may be closely link to prior history of respiratory diseases and changes of humidity, temperature, and air quality. In this context, we postulate that by tracking topological features of weather conditions over time we can provide aquantifiable structural distribution of atmospheric changes that are likely to be related to **COVID-19** progression rates.  As such, we apply the machinery of persistence homology on time series of graphs to extract topological signatures and to follow geographical changes in humidity and temperature. We develop an integrative machine learning framework via **Geometric Deep Learning (GDL)** and test its predictive capabilities on forecasting the progression of **SARS-CoV2** cases. We validate our novel GDL framework in application to number of confirmed cases and hospitalization rates from Washington and California states in the United States. Our results demonstrate the predictive potential of GDL to forecasting the transmission of **COVID-19** and modeling its complex spatio-temporal spread dynamics.
 
 Our proposed methodology has two main modules, see the graphical workflow in the below Figure:
 
@@ -17,3 +16,15 @@ Our proposed methodology has two main modules, see the graphical workflow in the
 </p>
 
 Topological LSTM (a) RNN architecture. (b) Our proposed methodology
+
+
+This package includes the source codes and datasets used in this research project. We encourage the reader to review the submitted paper: Covid-19 Forecasting via Deep Learning and Topological Data Analysis, and its Supplementary material.
+
+The complete software list and requirements are included in the file "Requirements.txt".
+
+Since our proposed methodology was tested on two different dynamic networks, Ethereum tokens and Ripple currencies, we include two folders in this package. Each folder contains 4 subfolders:
+
+Codes: The full set of script files used in this research paper.
+ReduceDataset: The reduced dynamic network used through this research.
+PersistenceDiagrams: All persistence diagrams obtained via Clique Community Persistence.
+Competitors: The competitor's source code used to contrast our methodology.
