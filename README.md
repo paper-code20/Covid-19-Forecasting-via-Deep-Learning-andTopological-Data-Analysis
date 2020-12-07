@@ -20,9 +20,8 @@ Topological LSTM (a) RNN architecture. (b) Our proposed methodology
 
 This package includes the source codes and datasets used in this research project. We encourage the reader to review the submitted paper: Covid-19 Forecasting via Deep Learning and Topological Data Analysis, and its Supplementary material.
 
-The complete software list and requirements are included in the file "Requirements.txt".
 
-Since our proposed methodology was tested on two different dynamic networks, Ethereum tokens and Ripple currencies, we include two folders in this package. Each folder contains 4 subfolders:
+
 
 Codes: The full set of script files used in this research paper.
 ReduceDataset: The reduced dynamic network used through this research.
