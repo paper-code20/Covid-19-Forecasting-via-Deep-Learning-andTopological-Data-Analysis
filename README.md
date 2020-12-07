@@ -21,7 +21,7 @@ Topological LSTM (a) RNN architecture. (b) Our proposed methodology
 This package includes the source codes and datasets used in this research project. We encourage the reader to review the submitted paper: Covid-19 Forecasting via Deep Learning and Topological Data Analysis, and its Supplementary material.
 
 
-
+Plesae find the significance of each file below:
 
 * **ChangeFormat_Hospitalizations_XXXX.R**: These Scripts change the original format of county for each state data to our own format for the deep learning model.
 * **LSTM_TDA_California_XXXX.py**: This code fit a LSTM oCovid data.
