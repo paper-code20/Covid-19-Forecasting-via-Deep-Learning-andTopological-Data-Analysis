@@ -23,4 +23,9 @@ This package includes the source codes and datasets used in this research projec
 
 
 
+**ChangeFormat_Hospitalizations_XXXX**:These Scripts change the original format of county for each state data to our own format for the deep learning model.
+
+
+
+
 
