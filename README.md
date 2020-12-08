@@ -22,8 +22,12 @@ This package includes the source codes and datasets used in this research projec
 
 *Our experiments has been carried out using collected data of California and Washington  states.  Particularly,  our  methodology  produces  daily  COVID-19 progression and hospitalization forecasts at county-level resolution.*
 
+The datasets for this research project are obtained from below websites and reposotory:
+* https://www.ncei.noaa.gov/
+* https://github.com/CSSEGISandData/COVID-19
+* https://midasnetwork.us/covid-19/
 
-Plesae find the significance of each file below:
+Plesae find the significance of each file and directory below:
 
 * **Datasets Directory**: it contains all the publicly available datsets required for this resrech project. 
 * **ChangeFormat_Hospitalizations_XXXX.R**: These Scripts change the original format of county for each state data to our own format for the deep learning model. The extarcted datasets are stored in the **CSV** directory.
