@@ -3,7 +3,7 @@
 
 ### Erase variables and set path...
 rm(list=ls()) 
-setwd('/Users/makenstein/Dropbox/RESEARCH/UTD/CORONA/Students_AAAI/LSTM_County_Predict_September_RATE_DEATH')  
+
 # +++++ LIBRARIES +++++
 
 # +++++ PARAMETERS +++++
