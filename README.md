@@ -31,7 +31,7 @@ Please find the significance of each file and directory below:
 
 * **Datasets Directory**: it contains all the publicly available datasets required for this research project. 
 * **ChangeFormat_Hospitalizations_XXXX.R**: These Scripts change the original format of county for each state data to our format for the deep learning model. The extracted datasets are stored in the **CSV** directory.
-* **LSTM_TDA_California_XXXX.py**: This script fits a LSTM model on Covid data using files available in the **InputLSTM** directory and saves the forecastings into the **Saved** directory
+* **LSTM_TDA_XXXX.py**: This script fits a LSTM model on Covid data using files available in the **InputLSTM** directory and saves the forecastings into the **Saved** directory
 * **ExtractWeekly_Features_Washington**:  This Script changes the original format of county for each state data to our own format for the deep learning model.
 * **Dynamic Network.py**: This script builds the Dynamic Network and extract topological summaries, and saves these results in a CSV file.
 
