@@ -22,6 +22,8 @@ This package includes the source codes and datasets used in this research projec
 
 *Our experiments have been carried out using collected data of California and Washington  states.  Particularly,  our  methodology  produces  daily  COVID-19 progression and hospitalization forecasts at county-level resolution.*
 
+The complete software list and requirements are included in the file "Requirements.md".
+
 The datasets for this research project are obtained from the below websites and repository:
 * https://www.ncei.noaa.gov/
 * https://github.com/CSSEGISandData/COVID-19
