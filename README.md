@@ -20,7 +20,7 @@ Topological LSTM (a) RNN architecture. (b) Our proposed methodology
 
 This package includes the source codes and datasets used in this research project. We encourage the reader to review the submitted paper: Covid-19 Forecasting via Deep Learning and Topological Data Analysis, and its Supplementary material.
 
-*Our experiments has been carried out using collected data of California and Washington  states.  Particularly,  our  methodology  produces  daily  COVID-19progression and hospitalization forecasts at county-level resolution.*
+*Our experiments has been carried out using collected data of California and Washington  states.  Particularly,  our  methodology  produces  daily  COVID-19 progression and hospitalization forecasts at county-level resolution.*
 
 
 Plesae find the significance of each file below:
