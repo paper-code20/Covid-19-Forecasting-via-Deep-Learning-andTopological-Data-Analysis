@@ -1,8 +1,4 @@
-# This code fit a LSTM oCovid data.
-# It accepts multiple inputs and multiple variable response
-# We downloaded confirmed cases from:
-# https://www.newsobserver.com/news/local/article241168731.html
-# 
+
 
 #%% Libraries
 import numpy as np 
