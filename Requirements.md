@@ -9,4 +9,4 @@ Our source code was developed using the following list of software:
 
 
 
-README.txt includes the description of each source code and folder attached in this submission.
+README.md includes the description of each source code and folder attached in this submission.
